@@ -1,2 +1,2 @@
 # CONTRIBUTING
-### People contributing to this file: Johnathan Ray, Eduardo De La Rosa
+### People contributing to this file: Johnathan Ray and Eduardo De La Rosa (EduardoDeLaR)
